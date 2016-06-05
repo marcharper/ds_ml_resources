@@ -27,6 +27,9 @@ I'm a data scientist, part time data science instructor, and a former academic h
 * [Data Science Python](https://github.com/ujjwalkarn/DataSciencePython): Many useful links
 * [Python Data Science Primer](https://github.com/docmarionum1/python-data-science-primer): Jupyter notebooks for pandas, matplotlib, scikit-learn, and more
 
+## Git
+* [Learn Git](http://learngitbranching.js.org/)
+
 ## Jupyter Notebooks
 
 * [Gallery of Jupyter/IPython notebooks](http://nb.bianp.net/)
@@ -67,3 +70,4 @@ I'm a data scientist, part time data science instructor, and a former academic h
 
 ## Articles
 * [Analyzing Fonts with RNN](https://erikbern.com/2016/01/21/analyzing-50k-fonts-using-deep-neural-networks/)
+* [Questions Each State Googles More Than Any Other State](http://blog.estately.com/2016/05/you-wont-believe-the-questions-each-state-googles-more-than-any-other-state/)
