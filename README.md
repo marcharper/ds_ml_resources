@@ -1,16 +1,20 @@
 # Data Science and Machine Learning Resources
 
-I'm a data scientist, part time data science instructor, and a former academic helping others make the transition. This is a list of blogs, articles, books, and other resources that I recommend.
+I'm a data scientist, part time data science instructor, and a former academic helping others make the transition. This is a list of blogs, articles, books, and other resources that I recommend. Pull requests are welcome!
 
 ## General Community
 
 * [DataTau](http://www.datatau.com/) a reddit / Hacker News style data science link-sharing site. Great for finding links and articles!
+* [r/datascience](https://www.reddit.com/r/datascience)
 
 ## Transitioning to Data Science
 
 * [Building a Data Science Portfolio](https://www.dataquest.io/blog/data-science-portfolio-project/)
 * [Becoming a Data Scientist](http://www.becomingadatascientist.com/)
 * [Leaving Academia](http://goodbyeacademia.com/wordpress/)
+* [Data Science Resumes](http://www.datascienceresume.com/advice): Advice on constructing a resume for data science positions
+* [More Resume Tips](http://www.analyticsvidhya.com/blog/2014/11/tips-prepare-cv-data-science-roles/)
+* [Interview Tips](http://treycausey.com/data_science_interviews.html)
 
 ## Blogs and People
 
@@ -20,8 +24,10 @@ I'm a data scientist, part time data science instructor, and a former academic h
 * [Great Article on Data Science and people to follow](http://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/)
 
 **Practitioners**:
-- [Randal Olson's Blog](http://www.randalolson.com/blog/)
+- [Randal Olson's blog](http://www.randalolson.com/blog/)
 - [Austin Rochford's blog](http://austinrochford.com/)
+- [Colah's blog](http://colah.github.io/): Lots of interesting content on neural networks
+- [Andrew Gelman](http://andrewgelman.com/): nice blog on statistics
 
 ## Data Science Basics in Python
 * [Data Science Python](https://github.com/ujjwalkarn/DataSciencePython): Many useful links
@@ -42,9 +48,11 @@ I'm a data scientist, part time data science instructor, and a former academic h
 
 ## Neural Networks and Deep Learning
 
+* [Neural Networks Demystified](http://lumiverse.io/series/neural-networks-demystified): Video series on NN basics
 * [Universal Approximation Theorem Demo](http://neuralnetworksanddeeplearning.com/chap4.html)
 * [A Curated List of Recurrent Neural Network Resources](https://github.com/kjw0612/awesome-rnn) 
 * [Deep Learning Trends at ICLR 2016](http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html?m=1)
+
 
 ## Logistic Regression
 
@@ -58,11 +66,14 @@ I'm a data scientist, part time data science instructor, and a former academic h
 
 ## Datasets
 
+* [Large AWS Datasets](https://aws.amazon.com/public-data-sets/): Data sets available through Amazon Web Services  
 * [A curated list of public data sets](https://github.com/caesar0301/awesome-public-datasets)
+* [r/datasets](https://www.reddit.com/r/datasets)
 * [Data.gov](https://www.data.gov/): US Govt released data sets
 * [Github Packaged Datasets](https://github.com/datasets)
 * Data sets: [Part 1](http://blog.thedataincubator.com/2014/10/data-sources-for-cool-data-science-projects-part-1/) [Part 2](http://blog.thedataincubator.com/2014/10/data-sources-for-cool-data-science-projects-part-2/)
 * [Financial Data](https://github.com/thalesians/pythalesians)
+
 
 ## Textbooks and Courses
 * [Data Science Textbook](https://www.gitbook.com/book/ds8/textbook/details): free PDF
@@ -71,3 +82,10 @@ I'm a data scientist, part time data science instructor, and a former academic h
 ## Articles
 * [Analyzing Fonts with RNN](https://erikbern.com/2016/01/21/analyzing-50k-fonts-using-deep-neural-networks/)
 * [Questions Each State Googles More Than Any Other State](http://blog.estately.com/2016/05/you-wont-believe-the-questions-each-state-googles-more-than-any-other-state/)
+* [The Neflix Stack](http://highscalability.com/blog/2015/11/9/a-360-degree-view-of-the-entire-netflix-stack.html) -- A high level overview of technologies and tools at Netflix
+
+## Companies
+* [Visual Representation of the Big Data Landscape](https://image-store.slidesharecdn.com/f83d452d-8f05-4d05-a584-a52037e5e0e0-large.png)
+* 
+## Data Visualization
+* [Visualizations of U.S. public data](http://datausa.io/)
