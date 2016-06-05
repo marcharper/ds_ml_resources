@@ -1,15 +1,16 @@
-# ds_ml_resources
-Data Science and Machine Learning resources, a curated list
+# Data Science and Machine Learning Resources
+
+I'm a data scientist, part time data science instructor, and a former academic helping others make the transition. This is a list of blogs, articles, books, and other resources that I recommend.
 
 ## General Community
 
-* [DataTau](http://www.datatau.com/) a reddit / Hacker News style data science link-sharing site
+* [DataTau](http://www.datatau.com/) a reddit / Hacker News style data science link-sharing site. Great for finding links and articles!
 
 ## Transitioning to Data Science
 
 * [Building a Data Science Portfolio](https://www.dataquest.io/blog/data-science-portfolio-project/)
 * [Becoming a Data Scientist](http://www.becomingadatascientist.com/)
-* [Leaving Academia for Data Science](http://goodbyeacademia.com/wordpress/)
+* [Leaving Academia](http://goodbyeacademia.com/wordpress/)
 
 ## Blogs and People
 
@@ -28,19 +29,19 @@ Data Science and Machine Learning resources, a curated list
 
 ## Jupyter Notebooks
 
-* [Building a Data Science Portfolio](https://www.dataquest.io/blog/data-science-portfolio-project/)
 * [Gallery of Jupyter/IPython notebooks](http://nb.bianp.net/)
 * [Another Gallery of Jupyter/IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebook)s
+* [Building a Data Science Portfolio](https://www.dataquest.io/blog/data-science-portfolio-project/)
 
 ## NLP: Natural Language Programming
 
-* [Awesome Notebook on Text Processing and Modeling](http://nbviewer.jupyter.org/url/norvig.com/ipython/How%20to%20Do%20Things%20with%20Words.ipynb) by Peter Norvig, a Director of Research at Google.
+* [Notebook on Text Processing and Modeling](http://nbviewer.jupyter.org/url/norvig.com/ipython/How%20to%20Do%20Things%20with%20Words.ipynb) by Peter Norvig
 
 ## Neural Networks and Deep Learning
 
 * [Universal Approximation Theorem Demo](http://neuralnetworksanddeeplearning.com/chap4.html)
-* [Deep Learning Trends at ICLR 2016](http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html?m=1)
 * [A Curated List of Recurrent Neural Network Resources](https://github.com/kjw0612/awesome-rnn) 
+* [Deep Learning Trends at ICLR 2016](http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html?m=1)
 
 ## Logistic Regression
 
@@ -56,11 +57,13 @@ Data Science and Machine Learning resources, a curated list
 
 * [A curated list of public data sets](https://github.com/caesar0301/awesome-public-datasets)
 * [Data.gov](https://www.data.gov/): US Govt released data sets
-* [https://github.com/datasets](Github Packaged Datasets)
-* [Part 1](http://blog.thedataincubator.com/2014/10/data-sources-for-cool-data-science-projects-part-1/)
-* [Part 2](http://blog.thedataincubator.com/2014/10/data-sources-for-cool-data-science-projects-part-2/)
-* [pythalesians](https://github.com/thalesians/pythalesians)
+* [Github Packaged Datasets](https://github.com/datasets)
+* Data sets: [Part 1](http://blog.thedataincubator.com/2014/10/data-sources-for-cool-data-science-projects-part-1/) [Part 2](http://blog.thedataincubator.com/2014/10/data-sources-for-cool-data-science-projects-part-2/)
+* [Financial Data](https://github.com/thalesians/pythalesians)
 
 ## Textbooks and Courses
 * [Data Science Textbook](https://www.gitbook.com/book/ds8/textbook/details): free PDF
 * [General Assembly's](http://generalassemb.ly) [Part Time DS Course](https://github.com/justmarkham/DAT8)
+
+## Articles
+* [Analyzing Fonts with RNN](https://erikbern.com/2016/01/21/analyzing-50k-fonts-using-deep-neural-networks/)
