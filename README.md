@@ -101,3 +101,6 @@ I'm a data scientist, part time data science instructor, and a former academic h
 * [Choosing the Right Estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/) with scikit-learn
 * [Visualizations of U.S. public data](http://datausa.io/)
 * [Who Marries Whom?](http://www.bloomberg.com/graphics/2016-who-marries-whom/): Visualizations of job pairings in US couples
+
+## Similar Lists
+* [Machine-Learning-Tutorials](https://github.com/aymericdamien/Machine-Learning-Tutorials)
