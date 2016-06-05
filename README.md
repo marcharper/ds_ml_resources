@@ -1,6 +1,6 @@
 # Data Science and Machine Learning Resources
 
-I'm a data scientist, part time data science instructor, and a former academic helping others make the transition. This is a list of blogs, articles, books, and other resources that I recommend. Pull requests are welcome!
+I'm a data scientist, part time data science instructor, and a former academic helping others make the transition. This is a list of blogs, articles, books, and other resources that you may find useful. Pull requests are welcome!
 
 ## General Community
 
