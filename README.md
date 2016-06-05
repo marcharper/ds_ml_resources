@@ -104,3 +104,4 @@ I'm a data scientist, part time data science instructor, and a former academic h
 
 ## Similar Lists
 * [Machine-Learning-Tutorials](https://github.com/aymericdamien/Machine-Learning-Tutorials)
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
