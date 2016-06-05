@@ -94,5 +94,6 @@ I'm a data scientist, part time data science instructor, and a former academic h
 ## Companies
 * [Visual Representation of the Big Data Landscape](https://image-store.slidesharecdn.com/f83d452d-8f05-4d05-a584-a52037e5e0e0-large.png)
 
-## Data Visualization
+## Data Visualization and Inforgraphics
+* [Choosing the Right Estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/) with scikit-learn
 * [Visualizations of U.S. public data](http://datausa.io/)
