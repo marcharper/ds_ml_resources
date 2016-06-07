@@ -64,7 +64,7 @@ I'm a data scientist, part time data science instructor, and a former academic h
 * [Logistic Regression in-depth](https://ayearofai.com/rohan-6-follow-up-statistical-interpretation-of-logistic-regression-e78de3b4d938#.mtnu9ky5b)
 
 ## A/B testing
-* [Neflix A/B testing](http://techblog.netflix.com/2016/04/its-all-about-testing-netflix.html)
+* [Netflix A/B testing](http://techblog.netflix.com/2016/04/its-all-about-testing-netflix.html)
 
 ## Awesome Tools
 * [TPOT](https://github.com/rhiever/tpot) is a Python tool that automatically creates and optimizes machine learning pipelines using genetic programming.
@@ -82,7 +82,6 @@ I'm a data scientist, part time data science instructor, and a former academic h
 ## Textbooks and Courses
 * [Data Science Textbook](https://www.gitbook.com/book/ds8/textbook/details): free PDF
 * [Probabilistic Programming & Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
-* 
 
 ## Courses
 * [ML course by Nando de Freitas](http://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) at Oxford
