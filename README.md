@@ -43,6 +43,7 @@ I'm a data scientist, part time data science instructor, and a former academic h
 * [Gallery of Jupyter/IPython notebooks](http://nb.bianp.net/)
 * [Another Gallery of Jupyter/IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebook)s
 * [Building a Data Science Portfolio](https://www.dataquest.io/blog/data-science-portfolio-project/)
+* [Probability](http://nbviewer.jupyter.org/url/norvig.com/ipython/Probability.ipynb)
 
 ## Signal Processing
 * [Notebook on Signal Processing](https://losc.ligo.org/s/events/GW150914/GW150914_tutorial.html)
