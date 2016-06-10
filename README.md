@@ -81,6 +81,7 @@ I'm a data scientist, part time data science instructor, and a former academic h
 * [Financial Data](https://github.com/thalesians/pythalesians)
 
 ## Textbooks and Courses
+* [Machine Learning Book with Jupyter Notebooks](https://github.com/rasbt/python-machine-learning-book)
 * [Data Science Textbook](https://www.gitbook.com/book/ds8/textbook/details): free PDF
 * [Probabilistic Programming & Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 
