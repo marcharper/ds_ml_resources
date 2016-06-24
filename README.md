@@ -81,6 +81,11 @@ I'm a data scientist, part time data science instructor, and a former academic h
 * Data sets: [Part 1](http://blog.thedataincubator.com/2014/10/data-sources-for-cool-data-science-projects-part-1/) [Part 2](http://blog.thedataincubator.com/2014/10/data-sources-for-cool-data-science-projects-part-2/)
 * [Financial Data](https://github.com/thalesians/pythalesians)
 
+### Los Angeles
+* [Los Angeles (City) Open Data](https://data.lacity.org/)
+* [Los Aneleges (County) Open Data](https://data.lacounty.gov/)
+* [OpenDataLA](http://www.opendatala.org/)
+
 ## Textbooks and Courses
 * [Machine Learning Book with Jupyter Notebooks](https://github.com/rasbt/python-machine-learning-book)
 * [Data Science Textbook](https://www.gitbook.com/book/ds8/textbook/details): free PDF
