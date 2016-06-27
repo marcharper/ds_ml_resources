@@ -63,7 +63,7 @@ I'm a data scientist, part time data science instructor, and a former academic h
 
 ## Logistic Regression
 
-* [Logistic Regression in-depth](https://ayearofai.com/rohan-6-follow-up-statistical-interpretation-of-logistic-regression-e78de3b4d938#.mtnu9ky5b)
+* Logistic Regression [Part 1](https://ayearofai.com/rohan-1-when-would-i-even-use-a-quadratic-equation-in-the-real-world-13f379edab3b#.cyyxh7smm) [Part 2](https://ayearofai.com/rohan-6-follow-up-statistical-interpretation-of-logistic-regression-e78de3b4d938#.mtnu9ky5b)
 
 ## A/B testing
 * [Netflix A/B testing](http://techblog.netflix.com/2016/04/its-all-about-testing-netflix.html)
