@@ -52,6 +52,11 @@ I'm a data scientist, part time data science instructor, and a former academic h
 ## Signal Processing
 * [Notebook on Signal Processing](https://losc.ligo.org/s/events/GW150914/GW150914_tutorial.html)
 
+## Clustering
+
+* [Awesome Demo of k-Means](http://www.naftaliharris.com/blog/visualizing-k-means-clustering/) by N. Harris
+* [Awesome Demo of DBSCAN](http://www.naftaliharris.com/blog/visualizing-dbscan-clustering/) by N. Harris
+
 ## NLP: Natural Language Programming
 
 * [Notebook on Text Processing and Modeling](http://nbviewer.jupyter.org/url/norvig.com/ipython/How%20to%20Do%20Things%20with%20Words.ipynb) by Peter Norvig
