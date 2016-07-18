@@ -60,6 +60,11 @@ I'm a data scientist, part time data science instructor, and a former academic h
 ## NLP: Natural Language Programming
 
 * [Notebook on Text Processing and Modeling](http://nbviewer.jupyter.org/url/norvig.com/ipython/How%20to%20Do%20Things%20with%20Words.ipynb) by Peter Norvig
+* [Another Nice NLP Notebook](https://github.com/charlieg/A-Smattering-of-NLP-in-Python/blob/master/A%20Smattering%20of%20NLP%20in%20Python.ipynb)
+
+## Big Data
+
+* [Practice Spark, Hadoop, etc.](https://cloudxlab.com)
 
 ## Neural Networks and Deep Learning
 
