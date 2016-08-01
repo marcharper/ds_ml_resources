@@ -34,6 +34,7 @@ I'm a data scientist, part time data science instructor, and a former academic h
 ## Data Science Basics in Python
 * [Data Science Python](https://github.com/ujjwalkarn/DataSciencePython): Many useful links
 * [Python Data Science Primer](https://github.com/docmarionum1/python-data-science-primer): Jupyter notebooks for pandas, matplotlib, scikit-learn, and more
+* [Learn Pandas by doing](https://github.com/guipsamora/pandas_exercises) -- Exercises for pandas
 
 ## Git
 * [Learn Git](http://learngitbranching.js.org/)
