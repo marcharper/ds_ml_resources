@@ -45,10 +45,11 @@ I'm a data scientist, part time data science instructor, and a former academic h
 * [Another Gallery of Jupyter/IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebook)s
 * [Building a Data Science Portfolio](https://www.dataquest.io/blog/data-science-portfolio-project/)
 * [Probability](http://nbviewer.jupyter.org/url/norvig.com/ipython/Probability.ipynb)
-* [XGBoost Walkthroug](https://jessesw.com/XG-Boost/)
+* [XGBoost Walkthrough](https://jessesw.com/XG-Boost/)
 
 ## Algorithms
 * [Top 10 Algorithms for Data Mining](https://www.cs.umd.edu/~samir/498/10Algorithms-08.pdf)
+* [Nice Visualization of Gradient Boosting](https://arogozhnikov.github.io/2016/07/05/gradient_boosting_playground.html)
 
 ## Signal Processing
 * [Notebook on Signal Processing](https://losc.ligo.org/s/events/GW150914/GW150914_tutorial.html)
