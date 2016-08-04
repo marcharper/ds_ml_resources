@@ -1,11 +1,7 @@
 # Data Science and Machine Learning Resources
 
-I'm a data scientist, part time data science instructor, and a former academic helping others make the transition. This is a list of blogs, articles, books, and other resources that you may find useful. Pull requests are welcome!
-
 ## Model / Algorithm Visualizations and Playgrounds
-
 * [Many Nice Demos](http://arogozhnikov.github.io/2016/04/28/demonstrations-for-ml-courses.html)
-
 * Trees and Gradient Boosting
   * [Nice Visualization of Gradient Boosting](https://arogozhnikov.github.io/2016/07/05/gradient_boosting_playground.html)
   * [Gradient Boosing Explained Visually](https://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html)
@@ -16,14 +12,11 @@ I'm a data scientist, part time data science instructor, and a former academic h
   * [Awesome Demo of k-Means](http://www.naftaliharris.com/blog/visualizing-k-means-clustering/) by N. Harris
   * [Awesome Demo of DBSCAN](http://www.naftaliharris.com/blog/visualizing-dbscan-clustering/) by N. Harris
 
-
 ## General Community
-
 * [DataTau](http://www.datatau.com/) a reddit / Hacker News style data science link-sharing site. Great for finding links and articles!
 * [r/datascience](https://www.reddit.com/r/datascience)
 
 ## Transitioning to Data Science
-
 * [Building a Data Science Portfolio](https://www.dataquest.io/blog/data-science-portfolio-project/)
 * [Becoming a Data Scientist](http://www.becomingadatascientist.com/)
 * [Leaving Academia](http://goodbyeacademia.com/wordpress/)
@@ -32,7 +25,6 @@ I'm a data scientist, part time data science instructor, and a former academic h
 * [Interview Tips](http://treycausey.com/data_science_interviews.html)
 
 ## Blogs and People
-
 * [Netflix Tech Blog](http://techblog.netflix.com/)
 * [A Big list of DS Blogs](https://blog.rjmetrics.com/2015/09/30/the-ultimate-guide-to-data-science-blogs-150-and-counting/) 
 * [A Nice list of Data Science Blogs](https://github.com/rushter/data-science-blogs)
@@ -51,28 +43,14 @@ I'm a data scientist, part time data science instructor, and a former academic h
 * [Python Data Science Primer](https://github.com/docmarionum1/python-data-science-primer): Jupyter notebooks for pandas, matplotlib, scikit-learn, and more
 * [Learn Pandas by doing](https://github.com/guipsamora/pandas_exercises) -- Exercises for pandas
 
-## Git
-* [Learn Git](http://learngitbranching.js.org/)
-
-## Jupyter Notebooks
-
+## Nice Jupyter Notebooks
 * [Gallery of Jupyter/IPython notebooks](http://nb.bianp.net/)
 * [Another Gallery of Jupyter/IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebook)s
 * [Building a Data Science Portfolio](https://www.dataquest.io/blog/data-science-portfolio-project/)
 * [Probability](http://nbviewer.jupyter.org/url/norvig.com/ipython/Probability.ipynb)
 * [XGBoost Walkthrough](https://jessesw.com/XG-Boost/)
-
-## Algorithms
-* [Top 10 Algorithms for Data Mining](https://www.cs.umd.edu/~samir/498/10Algorithms-08.pdf)
-
-
-## Signal Processing
 * [Notebook on Signal Processing](https://losc.ligo.org/s/events/GW150914/GW150914_tutorial.html)
 
-## Clustering
-
-* [Awesome Demo of k-Means](http://www.naftaliharris.com/blog/visualizing-k-means-clustering/) by N. Harris
-* [Awesome Demo of DBSCAN](http://www.naftaliharris.com/blog/visualizing-dbscan-clustering/) by N. Harris
 
 ## NLP: Natural Language Programming
 
@@ -80,11 +58,9 @@ I'm a data scientist, part time data science instructor, and a former academic h
 * [Another Nice NLP Notebook](https://github.com/charlieg/A-Smattering-of-NLP-in-Python/blob/master/A%20Smattering%20of%20NLP%20in%20Python.ipynb)
 
 ## Big Data
-
 * [Practice Spark, Hadoop, etc.](https://cloudxlab.com)
 
 ## Neural Networks and Deep Learning
-
 * [Neural Networks Demystified](http://lumiverse.io/series/neural-networks-demystified): Video series on NN basics
 * [Universal Approximation Theorem Demo](http://neuralnetworksanddeeplearning.com/chap4.html)
 * [A Curated List of Recurrent Neural Network Resources](https://github.com/kjw0612/awesome-rnn) 
@@ -92,7 +68,6 @@ I'm a data scientist, part time data science instructor, and a former academic h
 * [Deep Learning Projects](https://github.com/aymericdamien/TopDeepLearning) Ranked by github stars
 
 ## Logistic Regression
-
 * Logistic Regression [Part 1](https://ayearofai.com/rohan-1-when-would-i-even-use-a-quadratic-equation-in-the-real-world-13f379edab3b#.cyyxh7smm) [Part 2](https://ayearofai.com/rohan-6-follow-up-statistical-interpretation-of-logistic-regression-e78de3b4d938#.mtnu9ky5b)
 
 ## A/B testing
@@ -100,6 +75,9 @@ I'm a data scientist, part time data science instructor, and a former academic h
 
 ## Awesome Tools
 * [TPOT](https://github.com/rhiever/tpot) is a Python tool that automatically creates and optimizes machine learning pipelines using genetic programming.
+
+## Git
+* [Learn Git](http://learngitbranching.js.org/)
 
 ## Datasets
 
@@ -111,26 +89,28 @@ I'm a data scientist, part time data science instructor, and a former academic h
 * Data sets: [Part 1](http://blog.thedataincubator.com/2014/10/data-sources-for-cool-data-science-projects-part-1/) [Part 2](http://blog.thedataincubator.com/2014/10/data-sources-for-cool-data-science-projects-part-2/)
 * [Financial Data](https://github.com/thalesians/pythalesians)
 
-### Los Angeles
-* [Los Angeles (City) Open Data](https://data.lacity.org/)
-* [Los Aneleges (County) Open Data](https://data.lacounty.gov/)
-* [OpenDataLA](http://www.opendatala.org/)
 
-## Textbooks and Courses
+## Textbooks (Free)
 * [Machine Learning Book with Jupyter Notebooks](https://github.com/rasbt/python-machine-learning-book)
 * [Data Science Textbook](https://www.gitbook.com/book/ds8/textbook/details): free PDF
 * [Probabilistic Programming & Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 * [Biomedical Data Science Book](https://genomicsclass.github.io/book/): Includes much preliminary material
 
 ## Courses
-* [ML course by Nando de Freitas](http://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) at Oxford
 * [General Assembly's](http://generalassemb.ly) [Part Time DS Course](https://github.com/justmarkham/DAT8)
+* [ML course by Nando de Freitas](http://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) at Oxford
+
+## Algorithms
+* [Top 10 Machine Learning Algorithms](https://www.dezyre.com/article/top-10-machine-learning-algorithms/202)
+* [Top 10 Algorithms for Data Mining](https://www.cs.umd.edu/~samir/498/10Algorithms-08.pdf)
+* [A Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 
 ## Articles
 * [Analyzing Fonts with RNN](https://erikbern.com/2016/01/21/analyzing-50k-fonts-using-deep-neural-networks/)
 * [Questions Each State Googles More Than Any Other State](http://blog.estately.com/2016/05/you-wont-believe-the-questions-each-state-googles-more-than-any-other-state/)
 * [The Neflix Stack](http://highscalability.com/blog/2015/11/9/a-360-degree-view-of-the-entire-netflix-stack.html) -- A high level overview of technologies and tools at Netflix
 * [Deep Learning Trends at ICLR 2016](http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html?m=1)
+* [Automatically Categorizing Yelp Businesses](http://engineeringblog.yelp.com/2015/09/automatically-categorizing-yelp-businesses.html)
 
 ## Companies
 * [Visual Representation of the Big Data Landscape](https://image-store.slidesharecdn.com/f83d452d-8f05-4d05-a584-a52037e5e0e0-large.png)
@@ -140,10 +120,18 @@ I'm a data scientist, part time data science instructor, and a former academic h
 * [Visualizations of U.S. public data](http://datausa.io/)
 * [Who Marries Whom?](http://www.bloomberg.com/graphics/2016-who-marries-whom/): Visualizations of job pairings in US couples
 
+## Salaries
+* [What factors can increase your data science salary?](https://www.springboard.com/blog/highest-data-scientist-salary-possible/)
+
 ## Similar Lists
 * [Machine-Learning-Tutorials](https://github.com/aymericdamien/Machine-Learning-Tutorials)
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 ## Games
+* [Guess the Correlation](http://guessthecorrelation.com)/ 
 
-* [Guess the Correlation](http://guessthecorrelation.com/)
+### Los Angeles
+* [Hack for LA](http://www.hackforla.org/)
+* [Los Angeles (City) Open Data](https://data.lacity.org/)
+* [Los Aneleges (County) Open Data](https://data.lacounty.gov/)
+* [OpenDataLA](http://www.opendatala.org/)
