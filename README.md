@@ -50,6 +50,7 @@ I'm a data scientist, part time data science instructor, and a former academic h
 ## Algorithms
 * [Top 10 Algorithms for Data Mining](https://www.cs.umd.edu/~samir/498/10Algorithms-08.pdf)
 * [Nice Visualization of Gradient Boosting](https://arogozhnikov.github.io/2016/07/05/gradient_boosting_playground.html)
+* [Gradient Boosing Explained Visually](https://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html)
 
 ## Signal Processing
 * [Notebook on Signal Processing](https://losc.ligo.org/s/events/GW150914/GW150914_tutorial.html)
