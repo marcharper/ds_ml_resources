@@ -89,7 +89,6 @@
 * Data sets: [Part 1](http://blog.thedataincubator.com/2014/10/data-sources-for-cool-data-science-projects-part-1/) [Part 2](http://blog.thedataincubator.com/2014/10/data-sources-for-cool-data-science-projects-part-2/)
 * [Financial Data](https://github.com/thalesians/pythalesians)
 
-
 ## Textbooks (Free)
 * [Machine Learning Book with Jupyter Notebooks](https://github.com/rasbt/python-machine-learning-book)
 * [Data Science Textbook](https://www.gitbook.com/book/ds8/textbook/details): free PDF
@@ -106,6 +105,7 @@
 * [A Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 
 ## Articles
+* [Approaching (Almost) Any Machine Learning Problem](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
 * [Analyzing Fonts with RNN](https://erikbern.com/2016/01/21/analyzing-50k-fonts-using-deep-neural-networks/)
 * [Questions Each State Googles More Than Any Other State](http://blog.estately.com/2016/05/you-wont-believe-the-questions-each-state-googles-more-than-any-other-state/)
 * [The Neflix Stack](http://highscalability.com/blog/2015/11/9/a-360-degree-view-of-the-entire-netflix-stack.html) -- A high level overview of technologies and tools at Netflix
