@@ -2,6 +2,21 @@
 
 I'm a data scientist, part time data science instructor, and a former academic helping others make the transition. This is a list of blogs, articles, books, and other resources that you may find useful. Pull requests are welcome!
 
+## Model / Algorithm Visualizations and Playgrounds
+
+* [Many Nice Demos](http://arogozhnikov.github.io/2016/04/28/demonstrations-for-ml-courses.html)
+
+* Trees and Gradient Boosting
+  * [Nice Visualization of Gradient Boosting](https://arogozhnikov.github.io/2016/07/05/gradient_boosting_playground.html)
+  * [Gradient Boosing Explained Visually](https://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html)
+* Neural Networks
+  * [Neural Network Visualization](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.46144&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false) with TensorFlow
+  * [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
+* Clustering
+  * [Awesome Demo of k-Means](http://www.naftaliharris.com/blog/visualizing-k-means-clustering/) by N. Harris
+  * [Awesome Demo of DBSCAN](http://www.naftaliharris.com/blog/visualizing-dbscan-clustering/) by N. Harris
+
+
 ## General Community
 
 * [DataTau](http://www.datatau.com/) a reddit / Hacker News style data science link-sharing site. Great for finding links and articles!
@@ -49,8 +64,7 @@ I'm a data scientist, part time data science instructor, and a former academic h
 
 ## Algorithms
 * [Top 10 Algorithms for Data Mining](https://www.cs.umd.edu/~samir/498/10Algorithms-08.pdf)
-* [Nice Visualization of Gradient Boosting](https://arogozhnikov.github.io/2016/07/05/gradient_boosting_playground.html)
-* [Gradient Boosing Explained Visually](https://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html)
+
 
 ## Signal Processing
 * [Notebook on Signal Processing](https://losc.ligo.org/s/events/GW150914/GW150914_tutorial.html)
