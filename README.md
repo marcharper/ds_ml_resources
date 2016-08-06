@@ -103,6 +103,7 @@
 * [Top 10 Machine Learning Algorithms](https://www.dezyre.com/article/top-10-machine-learning-algorithms/202)
 * [Top 10 Algorithms for Data Mining](https://www.cs.umd.edu/~samir/498/10Algorithms-08.pdf)
 * [A Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
+* [Bayesian Methods](http://fastml.com/bayesian-machine-learning/)
 
 ## Articles
 * [Approaching (Almost) Any Machine Learning Problem](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
