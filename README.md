@@ -51,7 +51,6 @@
 * [XGBoost Walkthrough](https://jessesw.com/XG-Boost/)
 * [Notebook on Signal Processing](https://losc.ligo.org/s/events/GW150914/GW150914_tutorial.html)
 
-
 ## NLP: Natural Language Programming
 
 * [Notebook on Text Processing and Modeling](http://nbviewer.jupyter.org/url/norvig.com/ipython/How%20to%20Do%20Things%20with%20Words.ipynb) by Peter Norvig
@@ -70,8 +69,9 @@
 ## Logistic Regression
 * Logistic Regression [Part 1](https://ayearofai.com/rohan-1-when-would-i-even-use-a-quadratic-equation-in-the-real-world-13f379edab3b#.cyyxh7smm) [Part 2](https://ayearofai.com/rohan-6-follow-up-statistical-interpretation-of-logistic-regression-e78de3b4d938#.mtnu9ky5b)
 
-## A/B testing
+## Bandits and A/B testing
 * [Netflix A/B testing](http://techblog.netflix.com/2016/04/its-all-about-testing-netflix.html)
+* [Multi-arm Bandits](https://dataorigami.net/blogs/napkin-folding/79031811-multi-armed-bandits)
 
 ## Awesome Tools
 * [TPOT](https://github.com/rhiever/tpot) is a Python tool that automatically creates and optimizes machine learning pipelines using genetic programming.
