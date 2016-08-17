@@ -1,5 +1,10 @@
 # Data Science and Machine Learning Resources
 
+## Salary and Negotiation
+
+* [What Factors Increase Your Data Science Salary](https://www.springboard.com/blog/highest-data-scientist-salary-possible/)
+* [10 Rules for Negotiating](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6)
+
 ## Model / Algorithm Visualizations and Playgrounds
 * [Many Nice Demos](http://arogozhnikov.github.io/2016/04/28/demonstrations-for-ml-courses.html)
 * Trees and Gradient Boosting
@@ -15,6 +20,7 @@
 ## General Community
 * [DataTau](http://www.datatau.com/) a reddit / Hacker News style data science link-sharing site. Great for finding links and articles!
 * [r/datascience](https://www.reddit.com/r/datascience)
+* [Meetup.com](http://www.meetup.com): Depending on your location there may be many Data Science Meetups nearby!
 
 ## Transitioning to Data Science
 * [Building a Data Science Portfolio](https://www.dataquest.io/blog/data-science-portfolio-project/)
@@ -23,6 +29,7 @@
 * [Data Science Resumes](http://www.datascienceresume.com/advice): Advice on constructing a resume for data science positions
 * [More Resume Tips](http://www.analyticsvidhya.com/blog/2014/11/tips-prepare-cv-data-science-roles/)
 * [Interview Tips](http://treycausey.com/data_science_interviews.html)
+* [How to Become a Data Scientist](https://www.experfy.com/blog/how-to-become-a-data-scientist-part-1-3)
 
 ## Blogs and People
 * [Netflix Tech Blog](http://techblog.netflix.com/)
@@ -64,6 +71,7 @@
 * [Universal Approximation Theorem Demo](http://neuralnetworksanddeeplearning.com/chap4.html)
 * [A Curated List of Recurrent Neural Network Resources](https://github.com/kjw0612/awesome-rnn) 
 * [Tensor Flow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+* [Tensor Flow Resources](https://hackerlists.com/tensorflow-resources/)
 * [Deep Learning Projects](https://github.com/aymericdamien/TopDeepLearning) Ranked by github stars
 
 ## Logistic Regression
@@ -77,7 +85,9 @@
 * [TPOT](https://github.com/rhiever/tpot) is a Python tool that automatically creates and optimizes machine learning pipelines using genetic programming.
 
 ## Git
+* [Git Workflow Basics](https://blog.codeminer42.com/git-workflow-basics-d405746f6205)
 * [Learn Git](http://learngitbranching.js.org/)
+* [Git Tips](https://git.wiki.kernel.org/index.php/GitTips)
 
 ## Datasets
 
@@ -125,6 +135,7 @@
 * [What factors can increase your data science salary?](https://www.springboard.com/blog/highest-data-scientist-salary-possible/)
 
 ## Similar Lists
+* [70+ Resources for transitioning to Data Science](https://blog.modeanalytics.com/data-science-career/)
 * [Machine-Learning-Tutorials](https://github.com/aymericdamien/Machine-Learning-Tutorials)
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
@@ -132,6 +143,7 @@
 * [Guess the Correlation](http://guessthecorrelation.com)/ 
 
 ### Los Angeles
+* [DataScience.LA](http://datascience.la/): Meetups
 * [Hack for LA](http://www.hackforla.org/)
 * [Los Angeles (City) Open Data](https://data.lacity.org/)
 * [Los Aneleges (County) Open Data](https://data.lacounty.gov/)
