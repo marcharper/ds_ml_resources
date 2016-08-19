@@ -30,6 +30,7 @@
 * [More Resume Tips](http://www.analyticsvidhya.com/blog/2014/11/tips-prepare-cv-data-science-roles/)
 * [Interview Tips](http://treycausey.com/data_science_interviews.html)
 * [How to Become a Data Scientist](https://www.experfy.com/blog/how-to-become-a-data-scientist-part-1-3)
+* [Open Source Data Science Masters](http://datasciencemasters.org/)
 
 ## Blogs and People
 * [Netflix Tech Blog](http://techblog.netflix.com/)
