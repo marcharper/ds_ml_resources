@@ -92,10 +92,11 @@
 
 ## Datasets
 
-* [Large AWS Datasets](https://aws.amazon.com/public-data-sets/): Data sets available through Amazon Web Services  
 * [A curated list of public data sets](https://github.com/caesar0301/awesome-public-datasets)
 * [r/datasets](https://www.reddit.com/r/datasets)
 * [Data.gov](https://www.data.gov/): US Govt released data sets
+* [Where Can I Find Large Public Data Sets?](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
+* [Large AWS Datasets](https://aws.amazon.com/public-data-sets/): Data sets available through Amazon Web Services  
 * [Github Packaged Datasets](https://github.com/datasets)
 * Data sets: [Part 1](http://blog.thedataincubator.com/2014/10/data-sources-for-cool-data-science-projects-part-1/) [Part 2](http://blog.thedataincubator.com/2014/10/data-sources-for-cool-data-science-projects-part-2/)
 * [Financial Data](https://github.com/thalesians/pythalesians)
