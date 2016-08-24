@@ -32,6 +32,9 @@
 * [How to Become a Data Scientist](https://www.experfy.com/blog/how-to-become-a-data-scientist-part-1-3)
 * [Open Source Data Science Masters](http://datasciencemasters.org/)
 
+## Sharpening Your Reasoning Skills
+* [Habits of highly mathematical people](https://medium.com/@jeremyjkun/habits-of-highly-mathematical-people-b719df12d15e#.pf04pjpo4)
+
 ## Blogs and People
 * [Netflix Tech Blog](http://techblog.netflix.com/)
 * [A Big list of DS Blogs](https://blog.rjmetrics.com/2015/09/30/the-ultimate-guide-to-data-science-blogs-150-and-counting/) 
@@ -72,13 +75,19 @@
 * [Bayesian Data Analysis Book](http://www.stat.columbia.edu/~gelman/book/) [pdf](http://www.indiana.edu/~kruschke/articles/Kruschke2010WIRES.pdf)
 * [Bayesian Methods and pymc](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 
-## Neural Networks and Deep Learning
+## Neural Networks
 * [Neural Networks Demystified](http://lumiverse.io/series/neural-networks-demystified): Video series on NN basics
 * [Universal Approximation Theorem Demo](http://neuralnetworksanddeeplearning.com/chap4.html)
 * [A Curated List of Recurrent Neural Network Resources](https://github.com/kjw0612/awesome-rnn) 
 * [Tensor Flow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 * [Tensor Flow Resources](https://hackerlists.com/tensorflow-resources/)
+* [Variational Autoencoders](http://blog.fastforwardlabs.com/post/149329060653/under-the-hood-of-the-variational-autoencoder-in)
+
+## Deep Learning
+* [Learn Deep Learning the Hard Way](https://medium.com/artifacia/learn-deep-learning-the-hard-way-e5d844f9fbc1#.s3a5a5tyi)
 * [Deep Learning Projects](https://github.com/aymericdamien/TopDeepLearning) Ranked by github stars
+
+
 
 ## Logistic Regression
 * Logistic Regression [Part 1](https://ayearofai.com/rohan-1-when-would-i-even-use-a-quadratic-equation-in-the-real-world-13f379edab3b#.cyyxh7smm) [Part 2](https://ayearofai.com/rohan-6-follow-up-statistical-interpretation-of-logistic-regression-e78de3b4d938#.mtnu9ky5b)
@@ -138,8 +147,6 @@
 * [Visualizations of U.S. public data](http://datausa.io/)
 * [Who Marries Whom?](http://www.bloomberg.com/graphics/2016-who-marries-whom/): Visualizations of job pairings in US couples
 
-## Salaries
-* [What factors can increase your data science salary?](https://www.springboard.com/blog/highest-data-scientist-salary-possible/)
 
 ## Similar Lists
 * [70+ Resources for transitioning to Data Science](https://blog.modeanalytics.com/data-science-career/)
