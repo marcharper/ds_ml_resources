@@ -58,7 +58,6 @@
 * [Probability](http://nbviewer.jupyter.org/url/norvig.com/ipython/Probability.ipynb)
 * [XGBoost Walkthrough](https://jessesw.com/XG-Boost/)
 * [Notebook on Signal Processing](https://losc.ligo.org/s/events/GW150914/GW150914_tutorial.html)
-* [Bayesian Methods and pymc](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 
 ## NLP: Natural Language Programming
 
@@ -67,6 +66,11 @@
 
 ## Big Data
 * [Practice Spark, Hadoop, etc.](https://cloudxlab.com)
+
+## Bayesian Methods
+* [Bayesian Data Analysis Overview](http://www.indiana.edu/~kruschke/articles/Kruschke2010WIRES.pdf)
+* [Bayesian Data Analysis Book](http://www.stat.columbia.edu/~gelman/book/) [pdf](http://www.indiana.edu/~kruschke/articles/Kruschke2010WIRES.pdf)
+* [Bayesian Methods and pymc](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 
 ## Neural Networks and Deep Learning
 * [Neural Networks Demystified](http://lumiverse.io/series/neural-networks-demystified): Video series on NN basics
