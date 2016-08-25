@@ -1,7 +1,6 @@
 # Data Science and Machine Learning Resources
 
 ## Salary and Negotiation
-
 * [What Factors Increase Your Data Science Salary](https://www.springboard.com/blog/highest-data-scientist-salary-possible/)
 * [10 Rules for Negotiating](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6)
 
@@ -34,6 +33,7 @@
 
 ## Sharpening Your Reasoning Skills
 * [Habits of highly mathematical people](https://medium.com/@jeremyjkun/habits-of-highly-mathematical-people-b719df12d15e#.pf04pjpo4)
+* [52 Concepts To Add To Your Cognitive Toolkit](http://mcntyr.com/52-concepts-cognitive-toolkit/)
 
 ## Blogs and People
 * [Netflix Tech Blog](http://techblog.netflix.com/)
@@ -87,8 +87,6 @@
 * [Learn Deep Learning the Hard Way](https://medium.com/artifacia/learn-deep-learning-the-hard-way-e5d844f9fbc1#.s3a5a5tyi)
 * [Deep Learning Projects](https://github.com/aymericdamien/TopDeepLearning) Ranked by github stars
 
-
-
 ## Logistic Regression
 * Logistic Regression [Part 1](https://ayearofai.com/rohan-1-when-would-i-even-use-a-quadratic-equation-in-the-real-world-13f379edab3b#.cyyxh7smm) [Part 2](https://ayearofai.com/rohan-6-follow-up-statistical-interpretation-of-logistic-regression-e78de3b4d938#.mtnu9ky5b)
 
@@ -105,7 +103,6 @@
 * [Git Tips](https://git.wiki.kernel.org/index.php/GitTips)
 
 ## Datasets
-
 * [A curated list of public data sets](https://github.com/caesar0301/awesome-public-datasets)
 * [r/datasets](https://www.reddit.com/r/datasets)
 * [Data.gov](https://www.data.gov/): US Govt released data sets
@@ -146,7 +143,6 @@
 * [Choosing the Right Estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/) with scikit-learn
 * [Visualizations of U.S. public data](http://datausa.io/)
 * [Who Marries Whom?](http://www.bloomberg.com/graphics/2016-who-marries-whom/): Visualizations of job pairings in US couples
-
 
 ## Similar Lists
 * [70+ Resources for transitioning to Data Science](https://blog.modeanalytics.com/data-science-career/)
