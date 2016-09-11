@@ -103,6 +103,7 @@
 * [Git Tips](https://git.wiki.kernel.org/index.php/GitTips)
 
 ## Datasets
+* [OpenML](http://www.openml.org/)
 * [A curated list of public data sets](https://github.com/caesar0301/awesome-public-datasets)
 * [r/datasets](https://www.reddit.com/r/datasets)
 * [Data.gov](https://www.data.gov/): US Govt released data sets
