@@ -82,6 +82,7 @@
 * [Tensor Flow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 * [Tensor Flow Resources](https://hackerlists.com/tensorflow-resources/)
 * [Variational Autoencoders](http://blog.fastforwardlabs.com/post/149329060653/under-the-hood-of-the-variational-autoencoder-in)
+* [Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/)
 
 ## Deep Learning
 * [Learn Deep Learning the Hard Way](https://medium.com/artifacia/learn-deep-learning-the-hard-way-e5d844f9fbc1#.s3a5a5tyi)
