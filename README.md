@@ -3,6 +3,7 @@
 ## Salary and Negotiation
 * [What Factors Increase Your Data Science Salary](https://www.springboard.com/blog/highest-data-scientist-salary-possible/)
 * [10 Rules for Negotiating](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6)
+* [https://blog.step.com/2016/04/08/an-open-source-project-for-tech-salaries/](Google, Facebook, Amazon, and Microsoft Salaries)
 
 ## Model / Algorithm Visualizations and Playgrounds
 * [Many Nice Demos](http://arogozhnikov.github.io/2016/04/28/demonstrations-for-ml-courses.html)
