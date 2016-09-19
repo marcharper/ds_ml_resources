@@ -1,9 +1,10 @@
 # Data Science and Machine Learning Resources
 
 ## Salary and Negotiation
+* [2016 Data Science Salary Survey](http://www.oreilly.com/data/free/files/2016-data-science-salary-survey.pdf)
+* [https://blog.step.com/2016/04/08/an-open-source-project-for-tech-salaries/](Google, Facebook, Amazon, and Microsoft Salaries)
 * [What Factors Increase Your Data Science Salary](https://www.springboard.com/blog/highest-data-scientist-salary-possible/)
 * [10 Rules for Negotiating](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6)
-* [https://blog.step.com/2016/04/08/an-open-source-project-for-tech-salaries/](Google, Facebook, Amazon, and Microsoft Salaries)
 
 ## Model / Algorithm Visualizations and Playgrounds
 * [Many Nice Demos](http://arogozhnikov.github.io/2016/04/28/demonstrations-for-ml-courses.html)
