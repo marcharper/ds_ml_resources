@@ -69,6 +69,7 @@
 
 * [Notebook on Text Processing and Modeling](http://nbviewer.jupyter.org/url/norvig.com/ipython/How%20to%20Do%20Things%20with%20Words.ipynb) by Peter Norvig
 * [Another Nice NLP Notebook](https://github.com/charlieg/A-Smattering-of-NLP-in-Python/blob/master/A%20Smattering%20of%20NLP%20in%20Python.ipynb)
+* [On Word Embeddings](http://sebastianruder.com/word-embeddings-1/)
 
 ## Big Data
 * [Practice Spark, Hadoop, etc.](https://cloudxlab.com)
@@ -140,6 +141,8 @@
 * [The Neflix Stack](http://highscalability.com/blog/2015/11/9/a-360-degree-view-of-the-entire-netflix-stack.html) -- A high level overview of technologies and tools at Netflix
 * [Deep Learning Trends at ICLR 2016](http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html?m=1)
 * [Automatically Categorizing Yelp Businesses](http://engineeringblog.yelp.com/2015/09/automatically-categorizing-yelp-businesses.html)
+* [3 Ideas to Add to Your Data Science Toolkit](https://www.oreilly.com/ideas/3-ideas-to-add-to-your-data-science-toolkit)
+* [Long Term Forecasting with Machine Learning Models](https://thuijskens.github.io/2016/08/03/time-series-forecasting/)
 
 ## Companies
 * [Visual Representation of the Big Data Landscape](https://image-store.slidesharecdn.com/f83d452d-8f05-4d05-a584-a52037e5e0e0-large.png)
@@ -155,7 +158,7 @@
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 ## Games
-* [Guess the Correlation](http://guessthecorrelation.com)/ 
+* [Guess the Correlation](http://guessthecorrelation.com)
 
 ### Los Angeles
 * [DataScience.LA](http://datascience.la/): Meetups
