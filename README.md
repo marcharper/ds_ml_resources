@@ -57,6 +57,7 @@
 * [Learn Pandas by doing](https://github.com/guipsamora/pandas_exercises) -- Exercises for pandas
 
 ## Nice Jupyter Notebooks
+* [Some Jupyter Notebook Tricks](https://arogozhnikov.github.io/2016/09/10/jupyter-features.html)
 * [Gallery of Jupyter/IPython notebooks](http://nb.bianp.net/)
 * [Another Gallery of Jupyter/IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebook)s
 * [Building a Data Science Portfolio](https://www.dataquest.io/blog/data-science-portfolio-project/)
