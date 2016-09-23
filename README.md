@@ -117,6 +117,7 @@
 * [Github Packaged Datasets](https://github.com/datasets)
 * Data sets: [Part 1](http://blog.thedataincubator.com/2014/10/data-sources-for-cool-data-science-projects-part-1/) [Part 2](http://blog.thedataincubator.com/2014/10/data-sources-for-cool-data-science-projects-part-2/)
 * [Financial Data](https://github.com/thalesians/pythalesians)
+* [Datasets.co](http://www.datasets.co/)
 
 ## Textbooks (Free)
 * [Machine Learning Book with Jupyter Notebooks](https://github.com/rasbt/python-machine-learning-book)
