@@ -22,6 +22,7 @@
 * [DataTau](http://www.datatau.com/) a reddit / Hacker News style data science link-sharing site. Great for finding links and articles!
 * [r/datascience](https://www.reddit.com/r/datascience)
 * [Meetup.com](http://www.meetup.com): Depending on your location there may be many Data Science Meetups nearby!
+* [DataScience Stack Exchange](http://datascience.stackexchange.com/)
 
 ## Transitioning to Data Science
 * [Building a Data Science Portfolio](https://www.dataquest.io/blog/data-science-portfolio-project/)
