@@ -1,11 +1,5 @@
 # Data Science and Machine Learning Resources
 
-## Salary and Negotiation
-* [2016 Data Science Salary Survey](http://www.oreilly.com/data/free/files/2016-data-science-salary-survey.pdf)
-* [https://blog.step.com/2016/04/08/an-open-source-project-for-tech-salaries/](Google, Facebook, Amazon, and Microsoft Salaries)
-* [What Factors Increase Your Data Science Salary](https://www.springboard.com/blog/highest-data-scientist-salary-possible/)
-* [10 Rules for Negotiating](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6)
-
 ## Model / Algorithm Visualizations and Playgrounds
 * [Many Nice Demos](http://arogozhnikov.github.io/2016/04/28/demonstrations-for-ml-courses.html)
 * Trees and Gradient Boosting
@@ -18,11 +12,51 @@
   * [Awesome Demo of k-Means](http://www.naftaliharris.com/blog/visualizing-k-means-clustering/) by N. Harris
   * [Awesome Demo of DBSCAN](http://www.naftaliharris.com/blog/visualizing-dbscan-clustering/) by N. Harris
 
+## Datasets
+* [OpenML](http://www.openml.org/)
+* [A curated list of public data sets](https://github.com/caesar0301/awesome-public-datasets)
+* [r/datasets](https://www.reddit.com/r/datasets)
+* [Data.gov](https://www.data.gov/): US Govt released data sets
+* [Where Can I Find Large Public Data Sets?](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
+* [Large AWS Datasets](https://aws.amazon.com/public-data-sets/): Data sets available through Amazon Web Services  
+* [Github Packaged Datasets](https://github.com/datasets)
+* Data sets: [Part 1](http://blog.thedataincubator.com/2014/10/data-sources-for-cool-data-science-projects-part-1/) [Part 2](http://blog.thedataincubator.com/2014/10/data-sources-for-cool-data-science-projects-part-2/)
+* [Financial Data](https://github.com/thalesians/pythalesians)
+* [Datasets.co](http://www.datasets.co/)
+
 ## General Community
 * [DataTau](http://www.datatau.com/) a reddit / Hacker News style data science link-sharing site. Great for finding links and articles!
 * [r/datascience](https://www.reddit.com/r/datascience)
 * [Meetup.com](http://www.meetup.com): Depending on your location there may be many Data Science Meetups nearby!
 * [DataScience Stack Exchange](http://datascience.stackexchange.com/)
+
+## Blogs and People
+* [Unofficial Google Data Science Blog](http://www.unofficialgoogledatascience.com/)
+* [Netflix Tech Blog](http://techblog.netflix.com/)
+* [A Big list of DS Blogs](https://blog.rjmetrics.com/2015/09/30/the-ultimate-guide-to-data-science-blogs-150-and-counting/) 
+* [A Nice list of Data Science Blogs](https://github.com/rushter/data-science-blogs)
+* [Great Article on Data Science and people to follow](http://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/)
+* [DataGenetics](http://datagenetics.com/blog.html): Nice Visualizations and Write-ups on a variety of topics
+
+**Practitioners**:
+- [Wes McKinney's blog](http://wesmckinney.com/)
+- [Randal Olson's blog](http://www.randalolson.com/blog/)
+- [Colah's blog](http://colah.github.io/): Lots of interesting content on neural networks
+- [Austin Rochford's blog](http://austinrochford.com/)
+- [Andrew Gelman](http://andrewgelman.com/): Nice blog on statistics
+- [Curated List of Influential Data Scientists](https://www.springboard.com/blog/top-data-scientists-on-twitter/)
+
+# Jobs, Salary, Interviews
+
+## Salary and Negotiation
+* [2016 Data Science Salary Survey](http://www.oreilly.com/data/free/files/2016-data-science-salary-survey.pdf)
+* [https://blog.step.com/2016/04/08/an-open-source-project-for-tech-salaries/](Google, Facebook, Amazon, and Microsoft Salaries)
+* [What Factors Increase Your Data Science Salary](https://www.springboard.com/blog/highest-data-scientist-salary-possible/)
+* [10 Rules for Negotiating](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6)
+
+## Interviewing
+* [100 Common Interview Questions](https://www.springboard.com/blog/data-science-interview-questions/)
+* [An Analysis of Many Data Science Interviews](https://www.springboard.com/blog/data-science-interviews-lessons/)
 
 ## Transitioning to Data Science
 * [Building a Data Science Portfolio](https://www.dataquest.io/blog/data-science-portfolio-project/)
@@ -38,19 +72,7 @@
 * [Habits of highly mathematical people](https://medium.com/@jeremyjkun/habits-of-highly-mathematical-people-b719df12d15e#.pf04pjpo4)
 * [52 Concepts To Add To Your Cognitive Toolkit](http://mcntyr.com/52-concepts-cognitive-toolkit/)
 
-## Blogs and People
-* [Netflix Tech Blog](http://techblog.netflix.com/)
-* [A Big list of DS Blogs](https://blog.rjmetrics.com/2015/09/30/the-ultimate-guide-to-data-science-blogs-150-and-counting/) 
-* [A Nice list of Data Science Blogs](https://github.com/rushter/data-science-blogs)
-* [Great Article on Data Science and people to follow](http://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/)
-* [DataGenetics](http://datagenetics.com/blog.html): Nice Visualizations and Write-ups on a variety of topisc
-
-**Practitioners**:
-- [Wes McKinney's blog](http://wesmckinney.com/)
-- [Randal Olson's blog](http://www.randalolson.com/blog/)
-- [Colah's blog](http://colah.github.io/): Lots of interesting content on neural networks
-- [Austin Rochford's blog](http://austinrochford.com/)
-- [Andrew Gelman](http://andrewgelman.com/): Nice blog on statistics
+# Learning Data Science
 
 ## Data Science Basics in Python
 * [Data Science Python](https://github.com/ujjwalkarn/DataSciencePython): Many useful links
@@ -67,7 +89,6 @@
 * [Notebook on Signal Processing](https://losc.ligo.org/s/events/GW150914/GW150914_tutorial.html)
 
 ## NLP: Natural Language Programming
-
 * [Notebook on Text Processing and Modeling](http://nbviewer.jupyter.org/url/norvig.com/ipython/How%20to%20Do%20Things%20with%20Words.ipynb) by Peter Norvig
 * [Another Nice NLP Notebook](https://github.com/charlieg/A-Smattering-of-NLP-in-Python/blob/master/A%20Smattering%20of%20NLP%20in%20Python.ipynb)
 * [On Word Embeddings](http://sebastianruder.com/word-embeddings-1/)
@@ -93,6 +114,12 @@
 * [Learn Deep Learning the Hard Way](https://medium.com/artifacia/learn-deep-learning-the-hard-way-e5d844f9fbc1#.s3a5a5tyi)
 * [Deep Learning Projects](https://github.com/aymericdamien/TopDeepLearning) Ranked by github stars
 
+## Reinforcement Learning
+* [Simple Reinforcement Learning with Tensorflow](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0) -- multiarticle series
+* [Demystifying Deep Reinforcement Learning](https://www.nervanasys.com/demystifying-deep-reinforcement-learning/) -- multiarticle series
+* [Deep Reinforcement Learning: Pong from Pixels](https://karpathy.github.io/2016/05/31/rl/)
+* [Deep-Q learning Pong with Tensorflow and PyGame](http://www.danielslater.net/2016/03/deep-q-learning-pong-with-tensorflow.html)
+
 ## Logistic Regression
 * Logistic Regression [Part 1](https://ayearofai.com/rohan-1-when-would-i-even-use-a-quadratic-equation-in-the-real-world-13f379edab3b#.cyyxh7smm) [Part 2](https://ayearofai.com/rohan-6-follow-up-statistical-interpretation-of-logistic-regression-e78de3b4d938#.mtnu9ky5b)
 
@@ -107,18 +134,6 @@
 * [Git Workflow Basics](https://blog.codeminer42.com/git-workflow-basics-d405746f6205)
 * [Learn Git](http://learngitbranching.js.org/)
 * [Git Tips](https://git.wiki.kernel.org/index.php/GitTips)
-
-## Datasets
-* [OpenML](http://www.openml.org/)
-* [A curated list of public data sets](https://github.com/caesar0301/awesome-public-datasets)
-* [r/datasets](https://www.reddit.com/r/datasets)
-* [Data.gov](https://www.data.gov/): US Govt released data sets
-* [Where Can I Find Large Public Data Sets?](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
-* [Large AWS Datasets](https://aws.amazon.com/public-data-sets/): Data sets available through Amazon Web Services  
-* [Github Packaged Datasets](https://github.com/datasets)
-* Data sets: [Part 1](http://blog.thedataincubator.com/2014/10/data-sources-for-cool-data-science-projects-part-1/) [Part 2](http://blog.thedataincubator.com/2014/10/data-sources-for-cool-data-science-projects-part-2/)
-* [Financial Data](https://github.com/thalesians/pythalesians)
-* [Datasets.co](http://www.datasets.co/)
 
 ## Textbooks (Free)
 * [Machine Learning Book with Jupyter Notebooks](https://github.com/rasbt/python-machine-learning-book)
@@ -149,15 +164,13 @@
 ## Companies
 * [Visual Representation of the Big Data Landscape](https://image-store.slidesharecdn.com/f83d452d-8f05-4d05-a584-a52037e5e0e0-large.png)
 
+## Understanding the Machine
+* [CPU Costs of Many Operations](http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/)
+
 ## Data Visualization and Inforgraphics
 * [Choosing the Right Estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/) with scikit-learn
 * [Visualizations of U.S. public data](http://datausa.io/)
 * [Who Marries Whom?](http://www.bloomberg.com/graphics/2016-who-marries-whom/): Visualizations of job pairings in US couples
-
-## Similar Lists
-* [70+ Resources for transitioning to Data Science](https://blog.modeanalytics.com/data-science-career/)
-* [Machine-Learning-Tutorials](https://github.com/aymericdamien/Machine-Learning-Tutorials)
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 ## Games
 * [Guess the Correlation](http://guessthecorrelation.com)
@@ -168,3 +181,9 @@
 * [Los Angeles (City) Open Data](https://data.lacity.org/)
 * [Los Aneleges (County) Open Data](https://data.lacounty.gov/)
 * [OpenDataLA](http://www.opendatala.org/)
+
+## Similar Lists
+* [70+ Resources for transitioning to Data Science](https://blog.modeanalytics.com/data-science-career/)
+* [Machine-Learning-Tutorials](https://github.com/aymericdamien/Machine-Learning-Tutorials)
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+
