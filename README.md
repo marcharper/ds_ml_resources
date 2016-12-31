@@ -11,6 +11,7 @@
 * Clustering
   * [Awesome Demo of k-Means](http://www.naftaliharris.com/blog/visualizing-k-means-clustering/) by N. Harris
   * [Awesome Demo of DBSCAN](http://www.naftaliharris.com/blog/visualizing-dbscan-clustering/) by N. Harris
+  * [Best Visualizations of 2016](http://flowingdata.com/2016/12/29/best-data-visualization-projects-of-2016/)
 
 ## Datasets
 * [OpenML](http://www.openml.org/)
