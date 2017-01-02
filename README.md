@@ -143,6 +143,7 @@
 * [Biomedical Data Science Book](https://genomicsclass.github.io/book/): Includes much preliminary material
 
 ## Courses
+* [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README.md)
 * [General Assembly's](http://generalassemb.ly) [Part Time DS Course](https://github.com/justmarkham/DAT8)
 * [ML course by Nando de Freitas](http://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) at Oxford
 
