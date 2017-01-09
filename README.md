@@ -1,6 +1,7 @@
 # Data Science and Machine Learning Resources
 
 ## Model / Algorithm Visualizations and Playgrounds
+* [Best Visualizations of 2016](http://flowingdata.com/2016/12/29/best-data-visualization-projects-of-2016/)
 * [Many Nice Demos](http://arogozhnikov.github.io/2016/04/28/demonstrations-for-ml-courses.html)
 * Trees and Gradient Boosting
   * [Nice Visualization of Gradient Boosting](https://arogozhnikov.github.io/2016/07/05/gradient_boosting_playground.html)
@@ -11,7 +12,7 @@
 * Clustering
   * [Awesome Demo of k-Means](http://www.naftaliharris.com/blog/visualizing-k-means-clustering/) by N. Harris
   * [Awesome Demo of DBSCAN](http://www.naftaliharris.com/blog/visualizing-dbscan-clustering/) by N. Harris
-  * [Best Visualizations of 2016](http://flowingdata.com/2016/12/29/best-data-visualization-projects-of-2016/)
+
 
 ## Datasets
 * [OpenML](http://www.openml.org/)
@@ -114,6 +115,7 @@
 ## Deep Learning
 * [Learn Deep Learning the Hard Way](https://medium.com/artifacia/learn-deep-learning-the-hard-way-e5d844f9fbc1#.s3a5a5tyi)
 * [Deep Learning Projects](https://github.com/aymericdamien/TopDeepLearning) Ranked by github stars
+* [2016 Deep Learning Year In Review](http://www.deeplearningweekly.com/blog/deep-learning-2016-the-year-in-review)
 
 ## Reinforcement Learning
 * [Simple Reinforcement Learning with Tensorflow](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0) -- multiarticle series
