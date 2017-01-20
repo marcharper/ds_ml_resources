@@ -80,6 +80,7 @@
 * [Data Science Python](https://github.com/ujjwalkarn/DataSciencePython): Many useful links
 * [Python Data Science Primer](https://github.com/docmarionum1/python-data-science-primer): Jupyter notebooks for pandas, matplotlib, scikit-learn, and more
 * [Learn Pandas by doing](https://github.com/guipsamora/pandas_exercises) -- Exercises for pandas
+* [From Python to Numpy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 
 ## Nice Jupyter Notebooks
 * [Some Jupyter Notebook Tricks](https://arogozhnikov.github.io/2016/09/10/jupyter-features.html)
